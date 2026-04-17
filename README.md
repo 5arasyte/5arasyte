@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm 5arasyte</h1>
-<h3 align="center">wanna to be good at game developer</h3>
+<h1 align="center">Hi there, I'm parasyte</h1>
+<h3 align="center">i want reach CM on codeforces</h3>
 
 - 🌱 I’m currently learning **с++**
 
